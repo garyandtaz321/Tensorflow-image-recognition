@@ -16,6 +16,10 @@ matplotlib:
 ```
 $ pip install matplotlib
 ```
+Pillow: 
+```
+$ sudo pip install Pillow
+```
 After you downaloded the code unzip the file and create new 2 folders in the repository one is "dataset_image" and predicit.
 
 # Dataset
